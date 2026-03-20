@@ -629,6 +629,15 @@ More questions?
 
 Feel free to [post an issue][issues], but read the [wiki][wiki] first.
 
+Feedback and suggestions
+---------------
+
+If you have an idea to improve Nightscout, please [open an issue][issues] and include:
+
+* the use case you want to solve
+* what you expected to happen
+* any relevant screenshots or configuration details
+
 [issues]: https://github.com/nightscout/cgm-remote-monitor/issues
 [wiki]: https://github.com/nightscout/cgm-remote-monitor/wiki
 
